@@ -1,0 +1,39 @@
+
+.hcont
+{
+    width:60%;
+    margin:auto;
+    text-align: center;
+}
+h1
+{
+    margin:30px;
+    font-family:cursive;
+    font-size: 5rem;
+    color:rgb(0, 0, 0);
+}
+.dice
+{
+    display:inline-block;
+    text-align: center;
+}
+p
+{
+   font-size: 2rem;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   color:greenyellow;
+}
+img
+{
+    width: 70%;
+}
+.button
+{
+margin:3%;
+text-align:center;
+}
+
+body
+{
+    background-color:rgb(61, 112, 136)
+}
